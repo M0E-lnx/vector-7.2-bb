@@ -1,0 +1,7 @@
+WORKINGDIR=/home/ftp/pub/veclinux/packages
+EXCLUDE=kernel4.4,kernel4.4-headers,kernel4.4-source,kernel4.4-modules,kernel,kernel-headers,kernel-modules,kernel-src,kernel-sources
+#DISABLED=file:///mnt/cdrom/packages/
+SOURCE=http://vectorlinux.osuosl.org/veclinux-7.2/packages/
+SOURCE=http://vectorlinux.osuosl.org/veclinux-7.2/patches/
+SOURCE=http://vectorlinux.osuosl.org/veclinux-7.2/extra/
+SOURCE=http://vlcore.vectorlinux.com/pkg/untested/veclinux-7.2/x86/
